@@ -1,0 +1,46 @@
+body {
+    background: #ffffff;
+}
+
+.card{
+    border: 2px solid #f4f4f4;
+}
+.card-body{
+    background-color: #f4f4f4;
+}
+
+.card-title{
+    font-size: 1em;
+}
+
+.notifyTxt{
+    font-size: 0.75em;
+}
+
+
+.filterSubmitBtn{
+    width: 80%;
+}
+
+.btn-custom{
+    width: 87%;
+}
+.btnFilterDiv{
+    margin-left: 11.5%;
+}
+
+#dropdownBasic{
+    width: 80%;
+}
+
+.priceInput{
+    width:80%;
+}
+
+.ddlPos{
+    width: 73%;
+    margin-left:13.5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
